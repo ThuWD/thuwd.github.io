@@ -2,6 +2,7 @@ html,
 body {
     width: auto;
     font-family: 'Sulphur Point';
+    background-image: url(bg.jpg)
 }
 h1 {
 
