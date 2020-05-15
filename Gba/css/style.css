@@ -42,5 +42,6 @@ border-color:rgb(0, 81, 255);
 border-radius: 3px;
 }
 .zelda {
-    width: 75px;
+    width: 25px;
+   border-radius:50%;
 }
