@@ -1,0 +1,44 @@
+html,
+body {
+    width: auto;
+    font-family: 'Sulphur Point';
+}
+h1 {
+
+text-align: center;
+font-family: 'Sulphur Point';
+}
+.link {
+border:3px; 
+border-style:solid; 
+border-color:#FF0000;
+border-radius: 3px;
+}
+.img {
+width: 25px;
+}
+.tutorial {
+font-size: 20px;
+}        
+.gimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border-radius: 3px;
+}
+.desc {
+    text-align: center;
+}
+.obj {
+    align-content: center;
+}
+#back {
+border: 50%;
+border-style:solid; 
+border-color:rgb(0, 81, 255);
+border-radius: 3px;
+}
+.zelda {
+    width: 75px;
+}
