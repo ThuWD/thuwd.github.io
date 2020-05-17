@@ -3,6 +3,9 @@
 *{
     margin: 0px;
     padding: 0px;
+    width: auto;
+    font-family: 'Sulphur Point';
+    color:red;
 }
 
 .context {
