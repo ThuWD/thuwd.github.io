@@ -1,4 +1,3 @@
-function style() {
 const converted = {
   '@import url("https://fonts.googleapis.com/css?family=Exo:400,700")': true,
   '@import url("https://fonts.googleapis.com/css2?family=Sulphur+Point&display=swap")': true,
@@ -143,6 +142,3 @@ const converted = {
   },
   "#Honorable-mentions": { fontFamily: '"Sulphur Point"', color: "#fff" }
 };
-
-}
-setInterval(style, );
