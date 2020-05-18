@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 @import url('https://fonts.googleapis.com/css2?family=Sulphur+Point&display=swap');
-*{
+html{
     margin: 0px;
     padding: 0px;
     width: auto;
