@@ -49,6 +49,9 @@ a {
     
    
 }
+#scroll {
+color:black;
+}
 
 .circles{
     position: absolute;
