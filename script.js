@@ -1,4 +1,2 @@
-/*
-Background Gradients From -- 
-https://uigradients.com
-*/
+document.getElementById("Honorable-mentions").style.color = "white";
+document.getElementById("Honorable-mentions").style.fontFamily = "Sulphur Point";
