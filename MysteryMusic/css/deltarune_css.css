@@ -3,11 +3,12 @@ html,
 body {
   background-image: url('https://cdn.thuwd.org/cdn/Magic_Music/img/Deltarune.jpg');
   font-family: "Josefin Sans", sans-serif;
+  background-width:100vw;
+  background-height:100vh;
   font-size: 20px;
   min-height: 100vh;
   padding: 0;
-  width: 100vw;
-  margin-right: 90px;
+  min-width: 100vw;
 }
 .audio {
     text-align: center;
@@ -49,7 +50,8 @@ img {
   font-size: 18px;
 }
 #wrapper {
-margin:50%;
+margin-right:50%;
+  margin-left:50%;
 }
 
 .flex-container {
