@@ -1,11 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 html,
 body {
+  background-image: url('https://cdn.thuwd.org/cdn/Magic_Music/img/Deltarune.jpg');
   font-family: "Josefin Sans", sans-serif;
   font-size: 20px;
-  margin: 9;
-  height: auto;
+  background-size:cover;
+  margin: 0;
+  min-height: 100vh;
   padding: 0;
-  width: 384px;
+  width: 100vw;
   margin-right: 90px;
 }
 .audio {
