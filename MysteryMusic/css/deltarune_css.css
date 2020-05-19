@@ -5,7 +5,6 @@ body {
   font-family: "Josefin Sans", sans-serif;
   font-size: 20px;
   background-size:cover;
-  margin: 50%;
   min-height: 100vh;
   padding: 0;
   width: 100vw;
@@ -49,6 +48,9 @@ img {
 .version {
   color: #444;
   font-size: 18px;
+}
+#wrapper {
+margin:50%;
 }
 
 .flex-container {
