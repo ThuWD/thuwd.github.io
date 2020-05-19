@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 html,
 body {
-  background-image: url('https://cdn.thuwd.org/cdn/Magic_Music/img/Deltarune.jpg');
   font-family: "Josefin Sans", sans-serif;
-  background-width:100vw;
-  background-height:100vh;
   font-size: 20px;
   min-height: 100vh;
   padding: 0;
@@ -52,6 +49,9 @@ img {
 #wrapper {
 margin-right:50%;
   margin-left:50%;
+  background-image: url('https://cdn.thuwd.org/cdn/Magic_Music/img/Deltarune.jpg');
+  background-size:cover;
+  
 }
 
 .flex-container {
