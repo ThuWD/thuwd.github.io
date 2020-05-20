@@ -14,6 +14,12 @@
       html,
       body {
       font-family: 'Sulphur Point';
+             width: auto; /* Scale the div to the parent width */
+    /* The div needs some height to be visible */
+    background-image: url(bg.png); /* This is your background image */
+    background-size: 100%; /* Always size the image to the width of the div */
+    background-position: top;
+         background-image: url('https://cdn.thuwd.org/cdn/gba/img/Pokemon.bg.jpg');
       }
       .link {
       background-color: rgba(0, 0, 0, 0.33) ;
@@ -25,7 +31,7 @@
       }
       .wrapper {
          background-width:100vw;
-               background-image: url('https://cdn.thuwd.org/cdn/gba/img/Pokemon.bg.jpg');
+               
       }
    </style>
    <div class="wrapper">
