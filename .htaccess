@@ -1,0 +1,6 @@
+<Files /test.html>
+AuthName "Prompt"
+AuthType Basic
+AuthUserFile /.htpasswd
+Require valid-user
+</Files>
