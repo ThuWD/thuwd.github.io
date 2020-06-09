@@ -4,6 +4,13 @@
     font-family: 'Elianto';
     src: url('/Fonts/Elianto-Regular.ttf');
 }
+@font-face {
+    font-family: 'Elixia';
+    src: url('/fonts/ELIXIA.ttf');
+}
+.BLM {
+font-family: 'Elixia';
+}
 .header {
 font-family:'Elianto';
 }
