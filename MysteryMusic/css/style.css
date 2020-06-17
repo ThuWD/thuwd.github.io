@@ -1,5 +1,6 @@
       #audio-content {
         max-width: 700px;
+        border-radius:4px;
       }
       h1 {
         font-family: "josefin sans", monospace;
